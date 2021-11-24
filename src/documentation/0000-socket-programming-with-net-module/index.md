@@ -136,3 +136,5 @@ To learn more, try completing the following challenges:
 * Create a mini CRUD database server using an idiomatic chat-command interface
   * The chat-command interface could use keywords such as `create`, `read`, `update`, and `delete` so the client can send instructions to the server
   * Data can be persisted between sessions using `fs` to read and write data to files
+
+  Tiny addition
